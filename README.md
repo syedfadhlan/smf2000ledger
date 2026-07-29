@@ -4,7 +4,7 @@ Personal Finance Dashboard
 29-Jul-2026 
 Uploaded v6.4
 
-v8 bill tracking section
+v8 bill tracking section, v.8.1 bug fixed
 
 28-Jul-2026 Uploaded v5 + v6 + v6.3
 
