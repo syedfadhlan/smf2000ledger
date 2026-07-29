@@ -7,6 +7,7 @@ Uploaded v6.4
 v8 bill tracking section, v.8.1/8.2 bug fixed
 
 v9.0/1 Finance Management features
+v9.2 fix correct month bill display
 
 28-Jul-2026 Uploaded v5 + v6 + v6.3
 
