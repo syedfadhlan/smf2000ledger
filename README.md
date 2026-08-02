@@ -6,6 +6,10 @@ v10.0	2 Aug 2026	Custom date range on Period filter (From/To, quick picks, live 
 
 v11.0	2 Aug 2026	Account-to-account transfers (⚠️ CSV re-import loses pairing)
 
+v11.1	2 Aug	Account row click → Transactions (filtered, This month)
+
+v12.0	2 Aug	Default account for new entries (first / last used / specific)
+
 29-Jul-2026 
 Uploaded v6.4
 
