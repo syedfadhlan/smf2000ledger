@@ -1,6 +1,10 @@
 # smf2000ledger
 Personal Finance Dashboard
 
+02-Aug-2026 
+v10.0	2 Aug 2026	Custom date range on Period filter (From/To, quick picks, live summary, saved in settings)
+v11.0	2 Aug 2026	Account-to-account transfers (⚠️ CSV re-import loses pairing)
+
 29-Jul-2026 
 Uploaded v6.4
 
