@@ -1,6 +1,9 @@
 # smf2000ledger
 Personal Finance Dashboard
 
+3-Aug-2026 v13-17
+bill schedule pause/resume
+
 02-Aug-2026 
 v10.0	2 Aug 2026	Custom date range on Period filter (From/To, quick picks, live summary, saved in settings)
 
