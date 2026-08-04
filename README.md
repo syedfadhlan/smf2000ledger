@@ -17,6 +17,8 @@ August tracker — settled vs to-go, a progress bar, and the next four occurrenc
 Subscriptions — active subs ranked by monthly cost with mini bars and each one's next statement date.
 The old "Coming up" card is gone (its content lives in the tracker, now with paid/unpaid state), so Recent activity spans the full row
 
+v19.0 Planned Expense live — nav item 4
+
 3-Aug-2026 v13-17
 bill schedule pause/resume
 
