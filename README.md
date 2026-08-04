@@ -4,6 +4,7 @@ Personal Finance Dashboard
 
 
 04-Aug-2026
+
 Fixed in v17.1: it now sorts by and displays nextDate (statement), while Bills' "Next to pay" keeps using the due date.
 
 fixed in v17.2. Maxis Bill's stored statement stays 24-Jul (so its unpaid bill still carries in Bills), but "Next expected" now rolls a past statement forward one cadence for display — it reads Maxis Bill · 24-08-2026, and the card picks the nearest upcoming statement across all schedules.
