@@ -1,8 +1,7 @@
 # smf2000ledger
 Personal Finance Dashboard
 
-3-Aug-2026 v13-17
-bill schedule pause/resume
+
 
 04-Aug-2026
 Fixed in v17.1: it now sorts by and displays nextDate (statement), while Bills' "Next to pay" keeps using the due date.
@@ -17,6 +16,9 @@ Committed each month — RM 3,237.72/mo (RM 38.8k/yr), split bar for recurring v
 August tracker — settled vs to-go, a progress bar, and the next four occurrences with day badges and status chips (Settled / overdue / Due today / Not yet issued / Issued · due DD-MM).
 Subscriptions — active subs ranked by monthly cost with mini bars and each one's next statement date.
 The old "Coming up" card is gone (its content lives in the tracker, now with paid/unpaid state), so Recent activity spans the full row
+
+3-Aug-2026 v13-17
+bill schedule pause/resume
 
 02-Aug-2026 
 v10.0	2 Aug 2026	Custom date range on Period filter (From/To, quick picks, live summary, saved in settings)
