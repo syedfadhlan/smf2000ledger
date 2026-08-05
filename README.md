@@ -1,7 +1,9 @@
 # smf2000ledger
 Personal Finance Dashboard
 
+05-Aug-2026
 
+v19.2 fix display issue on Samsung Fold 7 front display
 
 04-Aug-2026
 
